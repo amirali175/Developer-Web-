@@ -27,7 +27,7 @@ Code en head
 
 🌀 maintenant ecrire un paragraphe dans le contenu body 
 
-![](images/1.0.PNG)
+![](images/1.2.PNG)
 
 
 
