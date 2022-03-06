@@ -25,7 +25,9 @@ Code en head
 	<h1> My first code html </h1>
 ```
 
+🌀 maintenant ecrire un paragraphe dans le contenu body 
 
+![](images/1.0.PNG)
 
 
 
