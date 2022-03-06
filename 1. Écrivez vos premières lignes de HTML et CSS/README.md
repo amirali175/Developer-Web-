@@ -33,7 +33,7 @@ Code en head
 --------------------------------------------------------------------------------
 
 ![](images/1.2.PNG)
-
+code body balise <p>
 ```
 <p> Hello everyone this is my first paragraph that i am writing  </p>
 ```
