@@ -30,7 +30,7 @@ Code en head
 ```
 
 🌀 maintenant ecrire un paragraphe dans le contenu body  utiliser le balise <p>
---------------------------------------------------------
+--------------------------------------------------------------------------------
 
 ![](images/1.2.PNG)
 
