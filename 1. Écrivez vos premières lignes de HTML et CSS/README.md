@@ -23,6 +23,10 @@ Code en head
 
 <body>
 	<h1> My first code html </h1>
+
+	<p> Hello everyone this is my first paragraph that i am writing  </p>
+</body>
+</html>
 ```
 
 🌀 maintenant ecrire un paragraphe dans le contenu body  utiliser le balise <p>
