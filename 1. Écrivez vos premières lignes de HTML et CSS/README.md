@@ -29,11 +29,11 @@ Code en head
 </html>
 ```
 
-🌀 maintenant ecrire un paragraphe dans le contenu body  utiliser le balise <p>
+🌀 maintenant ecrire un paragraphe dans le contenu body  utiliser le balise 
 --------------------------------------------------------------------------------
 
 ![](images/1.2.PNG)
-code body balise <p>
+code body 
 ```
 <p> Hello everyone this is my first paragraph that i am writing  </p>
 ```
