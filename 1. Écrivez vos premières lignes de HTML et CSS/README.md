@@ -25,9 +25,15 @@ Code en head
 	<h1> My first code html </h1>
 ```
 
-🌀 maintenant ecrire un paragraphe dans le contenu body 
+🌀 maintenant ecrire un paragraphe dans le contenu body  utiliser le balise <p>
+--------------------------------------------------------
 
 ![](images/1.2.PNG)
+
+```
+<p> Hello everyone this is my first paragraph that i am writing  </p>
+```
+
 
 
 
