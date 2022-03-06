@@ -8,7 +8,7 @@ Pour cet article j'aime vous montrer comment créer un page HTML dans une langag
 ✨ insere un titre dans le contenu en head 
 -------------------------------------------
 
-[images](1.0.png)
+[images](1.0.PNG)
 
 
 
