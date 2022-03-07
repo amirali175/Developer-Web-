@@ -38,6 +38,18 @@ code body
 <p> Hello everyone this is my first paragraph that i am writing  </p>
 ```
 
+🐴 Personalise votre contenu head  en CSS
+-----------------------------
+![](images/1.1.PNG)
+
+```
+h1 {
+    color: green;
+    background-color :yellow;
+    font-family: sans-serif;
+}
+
+```
 
 
 
